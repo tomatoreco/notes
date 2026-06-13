@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Cleaned up old debug logs
 - Updated license year
+
+## 2026-06-13
+- Improved log message formatting
+- Cross-checked behaviour against spec
